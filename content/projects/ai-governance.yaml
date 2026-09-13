@@ -1,0 +1,53 @@
+name: ai-governance
+public_label: "AI Agent Governance & Operations Platform"
+category: unresolved
+delivery_status: unresolved
+notes: >
+  Delivery/category status (professional, academic, independent,
+  prototype, live, shipped) is NOT YET SPECIFIED. Never guess or infer
+  this from the technologies or framing used elsewhere. If asked, use the
+  exact fallback line below.
+
+fallback_status_line: >
+  The portfolio material describes the design work, but it does not
+  currently specify whether this was shipped, academic, independent, or
+  prototype work.
+
+problem: >
+  Users need to understand what an AI agent can do independently, when
+  human approval is required, and whether information represents verified
+  data or AI interpretation.
+
+design_decision: >
+  Sri designed a five-tier authority/permission framework, human-in-the-loop
+  approval boundaries, and a provenance framework distinguishing verified
+  information from AI-generated interpretation.
+
+tradeoff: >
+  Complete transparency can overwhelm users; too little transparency
+  makes consequential AI behavior difficult to evaluate. The design
+  therefore explores progressive disclosure.
+
+outcome_qualitative: >
+  The framework makes authority and provenance visible interaction
+  concepts rather than hidden technical behavior.
+
+approved_tools: []
+
+allowed_claims:
+  - Sri designed a five-tier authority/permission framework
+  - The design includes human-in-the-loop approval boundaries and a
+    provenance framework distinguishing verified information from AI
+    interpretation
+  - The central design idea connects increasing agent autonomy with
+    clearer human approval boundaries
+
+prohibited_claims:
+  - Any claim about delivery/shipped/employment status — always unresolved
+  - Deployment, active customers, adoption, revenue, or production usage
+  - Individual detail of each of the five tiers beyond what's listed here
+    (use Depth Handling Level 2 instead — explain the reasoning, not
+    invented specifics)
+
+depth_level: summary_only
+case_study_available: false

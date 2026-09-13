@@ -1,0 +1,52 @@
+name: stich
+public_label: "Stich — AI-Assisted Wardrobe Decision Platform"
+category: unresolved
+delivery_status: unresolved
+notes: >
+  Delivery/category status is NOT YET SPECIFIED — same rule as
+  ai-governance.yaml. Never guess or infer.
+
+fallback_status_line: >
+  The portfolio material describes the design work, but it does not
+  currently specify whether this was shipped, academic, independent, or
+  prototype work.
+
+problem: >
+  AI recommendations can combine user instructions, stored information,
+  temporary context, and AI inference in ways that make assumptions look
+  like facts.
+
+design_decision: >
+  Sri designed a four-level information-authority framework separating
+  user instruction, wardrobe data, session state, and AI inference.
+  Recommendation factors can also be described by provenance: user-stated,
+  contextual, or AI interpretation.
+
+tradeoff: >
+  Visitors generally want recommendations quickly; requiring them to
+  inspect every reasoning layer would create unnecessary friction. The
+  concept uses progressive disclosure — useful output first, deeper
+  explanation when needed.
+
+outcome_qualitative: >
+  The framework explores how AI recommendations can remain useful while
+  preserving the distinction between known information and model
+  inference.
+
+approved_tools: []
+
+allowed_claims:
+  - Sri designed a four-level information-authority framework (user
+    instruction, wardrobe data, session state, AI inference)
+  - Recommendations can be described by provenance (user-stated,
+    contextual, AI interpretation)
+  - The design uses progressive disclosure rather than exposing all
+    reasoning at once
+
+prohibited_claims:
+  - Any claim about delivery/shipped/employment status — always unresolved
+  - Production deployment, commercial use, active users, customer
+    outcomes, or business impact
+
+depth_level: summary_only
+case_study_available: false

@@ -1,0 +1,40 @@
+name: we-storytellers
+public_label: "We Storytellers"
+category: professional
+delivery_status: professional-work-status-unspecified
+notes: >
+  No full individual case study is documented for this role. If asked for
+  deeper detail, say plainly that the available material doesn't contain
+  a full case study from this role.
+
+problem: >
+  Sri designed interactive microsites and digital campaign pages for
+  B2B IT experiences, where complex infrastructure concepts needed to be
+  made understandable to a general audience.
+
+design_decision: >
+  Her work included responsive layouts, visual hierarchy, information
+  architecture, and data visualizations, translating complex
+  infrastructure concepts into more understandable digital experiences.
+
+tradeoff: null
+
+outcome_qualitative: >
+  The role reinforced Sri's interest in making dense, technical
+  information understandable through structure and visual hierarchy.
+
+approved_tools: []
+
+allowed_claims:
+  - Sri designed interactive microsites and digital campaign pages for
+    B2B IT experiences at We Storytellers
+  - Her work included information architecture and data visualization
+    aimed at making complex infrastructure concepts understandable
+
+prohibited_claims:
+  - Any specific metric (engagement or comprehension-score percentages) —
+    Phase 1 has no approved numbers, even if a resume states them
+  - Specific enterprise clients or campaign names — none documented
+
+depth_level: summary_only
+case_study_available: false

@@ -1,0 +1,47 @@
+name: technoboot
+public_label: "Technoboot"
+category: professional
+delivery_status: professional-work-status-unspecified
+
+problem: >
+  Sri worked across an ed-tech product and broader UI/UX efforts involving
+  onboarding, course discovery, and progress tracking, where inconsistent
+  navigation and weak behavioral feedback created friction for users.
+
+design_decision: >
+  Sri's work combined product flows, behavioral experimentation,
+  accessibility auditing (WCAG), and reusable component-system work,
+  alongside client- and stakeholder-facing presentation work (PowerPoint)
+  and internal documentation (SharePoint).
+
+tradeoff: >
+  Standardization creates consistency, but overly rigid systems can
+  prevent teams from responding to different product contexts. The
+  challenge was building reusable foundations while preserving enough
+  flexibility for product-specific needs.
+
+outcome_qualitative: >
+  This stage of her career shifted her thinking from designing individual
+  interfaces toward designing systems of interfaces.
+
+approved_tools:
+  - PowerPoint (client/stakeholder presentations — product roadmaps, UX
+    audit walkthroughs, design recommendations, feature handoffs)
+  - SharePoint (design guidelines, component usage notes, feature specs,
+    internal workflow reference materials)
+
+allowed_claims:
+  - Sri worked on onboarding, course discovery, progress tracking, and
+    broader UI/UX efforts at Technoboot
+  - Her work included behavioral experimentation, WCAG accessibility
+    auditing, and reusable component-system contributions
+  - She used PowerPoint and SharePoint for stakeholder communication and
+    internal documentation
+
+prohibited_claims:
+  - Any specific metric (retention percentages, engagement numbers,
+    experiment results) — Phase 1 has no approved numbers, even if a
+    resume states them
+
+depth_level: summary_only
+case_study_available: false

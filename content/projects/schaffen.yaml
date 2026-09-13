@@ -1,0 +1,40 @@
+name: schaffen
+public_label: "Schaffen Softwares"
+category: professional
+delivery_status: professional-work-status-unspecified
+notes: >
+  No specific flagship project is documented for this role — role-level
+  information only. If asked for deeper case-study detail, say plainly
+  that the available material only covers this at the role level.
+
+problem: >
+  Sri worked on interfaces for enterprise B2B and web-based products,
+  including cross-platform usability and translating business needs into
+  design solutions.
+
+design_decision: >
+  Her work included interface design, UI kits, design systems, visual
+  clarity, interaction flows, and stakeholder collaboration.
+
+tradeoff: null
+
+outcome_qualitative: >
+  The role contributed to Sri's broader experience designing for
+  enterprise B2B contexts and collaborating directly with stakeholders to
+  translate business needs into design decisions.
+
+approved_tools: []
+
+allowed_claims:
+  - Sri worked on enterprise B2B and web-based product interfaces at
+    Schaffen Softwares
+  - Her work included UI kits, design systems, and stakeholder
+    collaboration
+
+prohibited_claims:
+  - Any specific metric (e.g. a satisfaction percentage) — Phase 1 has no
+    approved numbers, even if a resume states them
+  - A specific flagship project, client, or timeframe — none is documented
+
+depth_level: summary_only
+case_study_available: false

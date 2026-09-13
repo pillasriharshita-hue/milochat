@@ -1,0 +1,53 @@
+name: enterprise-ai
+public_label: "Confidential Enterprise AI Platform"
+category: professional
+delivery_status: professional-work-status-unspecified
+confidentiality: end-client-never-identifiable
+notes: >
+  This work is performed through Sri's current professional placement
+  (Community Dreams). Do not imply that Community Dreams owns the
+  underlying client product. Never name, guess, confirm, or deny the end
+  client under any framing.
+
+problem: >
+  AI-assisted data workflows can become difficult to trust when
+  recommendations appear without sufficient context, automated decisions
+  are difficult to modify, or system processing creates unexplained
+  waiting.
+
+design_decision: >
+  Sri worked on human-in-the-loop review interactions, including editable
+  AI suggestions, confidence indicators, manual overrides, and interaction
+  states designed around a short, bounded AI response window so the
+  system gives meaningful feedback instead of an unexplained wait.
+
+tradeoff: >
+  Too much AI explanation creates friction; too little makes AI behavior
+  feel unpredictable. The design needed to balance automation with
+  visible opportunities for review and correction.
+
+outcome_qualitative: >
+  The experience makes AI assistance and human review coexist visibly,
+  rather than treating automation as a black box the user has to trust
+  blindly.
+
+approved_tools: []
+
+allowed_claims:
+  - Sri worked on human-in-the-loop review flows for AI-assisted data
+    workflows through her current professional placement
+  - The work included editable AI suggestions, confidence indicators, and
+    manual overrides
+  - Response-window design was a deliberate part of the interaction design
+
+prohibited_claims:
+  - Any specific response-time number (e.g. "3-8 seconds") — Phase 1 has
+    no approved numbers
+  - Any conversion, productivity, efficiency, revenue, retention, or
+    adoption metric
+  - Naming or hinting at the end client in any way
+  - Implying Community Dreams is the product owner rather than the
+    staffing/placement employer
+
+depth_level: summary_only
+case_study_available: false

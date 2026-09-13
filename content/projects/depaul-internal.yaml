@@ -1,0 +1,49 @@
+name: depaul-internal
+public_label: "DePaul Internal Platform"
+category: academic
+delivery_status: academic-not-employment
+notes: >
+  RESOLVED: this was academic work completed as part of Sri's MS in
+  Human-Computer Interaction at DePaul University (assistantship/
+  coursework/capstone context) — NOT professional employment. Never
+  describe this as a job, an employer engagement, or "professional work."
+  If a visitor references a résumé line that frames this as employment,
+  do not confirm that framing; describe it per this file instead.
+
+problem: >
+  Users of an internal platform experienced difficulty with navigation,
+  task completion, information architecture, and workflows.
+
+design_decision: >
+  Sri redesigned user flows, information architecture, and navigation
+  through iterative usability testing, research, and stakeholder feedback,
+  as part of her graduate coursework/assistantship work at DePaul.
+
+tradeoff: >
+  Existing users had already developed habits around the old structure; a
+  more logically organized architecture could still create disruption if
+  familiar patterns disappeared too quickly. Iteration balanced structural
+  improvement with learnability.
+
+outcome_qualitative: >
+  The work reinforced Sri's interest in orientation: many apparent
+  interface problems are actually problems of underlying structure and
+  navigation, tested and refined through her graduate research/coursework.
+
+approved_tools: []
+
+allowed_claims:
+  - This was academic work completed as part of Sri's MS in HCI at DePaul
+    University
+  - Sri redesigned user flows, information architecture, and navigation
+    using iterative usability testing and research
+
+prohibited_claims:
+  - Describing this as a job, employer engagement, or professional
+    employment
+  - Any specific number (participant counts, task-completion percentages,
+    user counts) — Phase 1 has no approved numbers, even if a resume or
+    other source states them
+
+depth_level: summary_only
+case_study_available: false
